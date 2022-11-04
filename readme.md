@@ -1,5 +1,5 @@
 # Projeto 03: Crie seu evento
-<img src="./images/screenshot.jpg"/>
+<img src="./images/screenshot.png"/>
 
 ### Acesse o projeto: [Aqui](https://jonasncsantos.github.io/Treine.me/)
 ## Sobre
@@ -17,4 +17,4 @@ Projeto desenvolvido durante aula para aplicação dos conhencimentos ensinados 
 - Tipos de envios de dados 
 - Pseudo-elements
 - Pseudo-classes
-- 
+- Validação de campos

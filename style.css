@@ -30,7 +30,7 @@ body::before{
 
 header{
   width: 319px;
-  margin-top: 74px;
+  padding-top: 74px;
 }
 
 header h1{
