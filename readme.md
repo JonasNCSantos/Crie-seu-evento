@@ -15,4 +15,6 @@ Projeto desenvolvido durante aula para aplicação dos conhencimentos ensinados 
 - Acessibilidade
 - Navegação por teclado
 - Tipos de envios de dados 
+- Pseudo-elements
+- Pseudo-classes
 - 
